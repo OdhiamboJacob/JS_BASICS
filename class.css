@@ -1,0 +1,20 @@
+#greeting{
+    background-color: aquamarine;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    display: inline-flex;
+}
+button{
+    float: right;
+    margin-left: 50%;
+    height: 50px;
+    margin-top: 10px;
+    background-color: chartreuse;
+    border: solid black;
+    border-radius: 15px;
+}
+#name{
+    font-size: 18px;
+    
+}
